@@ -23,6 +23,12 @@ Arduino Board :
 
  IPs (Intellectual Property blocks): Pre-designed functional modules like CPU cores, memory blocks, and communication interfaces (SPI, I2C, USB, etc.).
 
+ 
+ What is QFN-48?
+ 
+ The Quad Flat No-Lead (QFN-48) package is a compact, surface-mount IC package with 48 pins. It is widely used for microcontrollers, RF devices, and power management ICs due to its 
+ excellent thermal dissipation, low electrical parasitics, and cost-effectiveness.
+
 
 
 
